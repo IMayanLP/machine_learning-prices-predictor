@@ -1,0 +1,96 @@
+Processador,,Placa de Vídeo,,Memória de Vídeo (GB),RAM (GB),SSD (GB),HD (GB),Fonte (W),Preco (R$)
+Intel Core i5 11° Gen,,GeForce GTX 1650,,4,16,480,0,500,4336.30
+Intel Core i5 11° Gen,,GeForce GTX 1650,,4,16,480,0,500,4929.00
+Intel Core i5 11° Gen,,GeForce GTX 1660 Super,,6,16,0,500,750,4820.15
+Intel Core i5 11° Gen,,GeForce RTX 2060,,6,8,256,0,500,4738.57
+Intel Core i5 11° Gen,,GeForce RTX 3050,,8,8,240,0,650,4137.99
+Intel Core i5 11° Gen,,GeForce GTX 1060,,3,8,120,0,500,3728.40
+Intel Core i3 12° Gen,,GeForce GTX 1060,,3,8,256,0,500,3693.17
+AMD Ryzen 5 4600G,,Radeon Vega 8,,0,8,256,0,400,2159.00
+AMD Ryzen 5 4600G,,Radeon Vega 7,,2,8,256,0,500,2718.00
+AMD Ryzen 5 4500,,GeForce RTX 2060,,6,8,240,0,500,3977.26
+AMD Ryzen 5 4500,,Radeon RX 550,,4,8,240,0,400,2613.61
+AMD Ryzen 5 4500,,Radeon RX 6400,,4,8,256,0,500,3282.96
+AMD Ryzen 5 PRO 4650G,,Radeon HD 6570,,4,16,960,0,500,5448.45
+AMD Ryzen 5 PRO 4650G,,Radeon RX 6600,,8,8,240,0,400,4946.14
+AMD Ryzen 5 PRO 4650G,,Radeon Vega 7,,2,16,0,1024,400,3294.17
+AMD Ryzen 5 3600,,GeForce GT 610,,2,8,240,0,500,2212.16
+AMD Ryzen 5 3600,,GeForce GT 610,,2,8,240,0,500,2212.16
+AMD Ryzen 5 3600,,GeForce GTX 1650,,4,8,240,0,500,3486.34
+AMD Ryzen 5 3600,,GeForce RTX 2060,,6,8,256,0,500,4136.34
+AMD Ryzen 5 3600,,Radeon RX 550,,4,8,240,0,400,2670.44
+AMD Ryzen 5 3600,,Radeon RX 6400,,4,8,256,0,400,3181.80
+AMD 4700S,,GeForce GT 610,,2,16,512,0,500,2181.49
+AMD 4700S,,GeForce GTX 1060,,3,16,256,0,500,3220.46
+AMD 4700S,,GeForce GTX 750 TI,,4,16,240,0,500,2738.44
+AMD 4700S,,Radeon RX 550,,4,16,256,0,500,2555.68
+AMD 4700S,,Radeon RX 6400,,4,16,128,0,500,2897.61
+AMD 4700S,,Radeon RX 6500 XT,,4,16,256,0,500,3190.91
+AMD 4700S,,GeForce GTX 1060,,3,16,256,0,500,3220.46
+Intel Core i7 10° Gen,,GeForce GTX 1060,,3,16,0,1024,400,5543.86
+Intel Core i7 10° Gen,,GeForce GTX 1660 Super,,6,8,480,0,500,4499.98
+Intel Core i7 10° Gen,,GeForce RTX 3050,,8,16,240,0,750,6960.00
+AMD Ryzen 5 5600G,,Radeon Vega 7,,2,16,480,0,400,3352.10
+AMD Ryzen 5 5600G,,Radeon Vega 7,,2,8,240,0,400,2727.24
+AMD Ryzen 5 5600G,,Radeon Vega 7,,2,8,240,0,350,2744.00
+AMD Ryzen 5 5600G,,Radeon Vega 7,,2,8,240,0,400,2839.00
+AMD Ryzen 5 5600G,,Radeon Vega 7,,2,8,256,0,500,2999.00
+AMD Ryzen 5 5600G,,Radeon Vega 7,,2,16,480,0,600,3099.00
+AMD Ryzen 5 5600G,,Radeon Vega 7,,2,8,0,500,500,3358.80
+AMD Ryzen 5 5600G,,Radeon Vega 7,,2,16,960,0,500,3510.00
+Intel Core i5 1º Gen,,GeForce GT 210,,1,8,0,500,400,1339.00
+Intel Core i5 1º Gen,,GeForce GT 730,,2,8,0,1024,350,2486.90
+Intel Core i5 2º Gen,,GeForce GTX 1050 Ti,,4,8,0,1024,400,2757.00
+Intel Core i5 2º Gen,,Intel HD Graphics 2000,,0,8,240,0,350,1470.05
+Intel Core i5 2º Gen,,Intel HD Graphics 2000,,0,8,0,1024,200,1636.00
+AMD Ryzen 7 5700G,,GeForce GTX 1650,,4,8,240,0,500,4704.52
+AMD Ryzen 7 5700G,,Radeon Vega 8,,0,8,256,0,500,4249.00
+AMD Ryzen 7 5700G,,Radeon Vega 8,,4,16,0,1024,500,3579.26
+AMD Ryzen 7 5700G,,Radeon Vega 8,,4,8,120,0,500,4158.40
+Intel Core i5 12° Gen,,GeForce GT 730,,2,16,480,0,500,4321.55
+Intel Core i5 12° Gen,,GeForce GTX 1660 Super,,6,8,480,0,750,5917.55
+Intel Core i5 12° Gen,,GeForce GTX 1650,,4,8,120,0,400,3557.49
+Intel Core i5 12° Gen,,Radeon RX 550,,4,8,240,0,400,3783.83
+Intel Core i5 12° Gen,,Radeon RX 6400,,4,8,240,0,400,3976.95
+AMD A8 9600,,Radeon R7,,2,8,0,1024,200,2399.00
+AMD A8 9600,,Radeon R7,,2,16,120,0,400,3315.00
+AMD A8-9600,,Radeon R5 220,,2,8,0,1000,400,2511.35
+AMD A8-9600,,Radeon R7,,2,8,120,0,200,1852.26
+AMD A10 9700,,Radeon R7,,2,8,0,1024,200,2537.66
+AMD A10 9700,,Radeon R7,,2,16,512,0,400,3269.00
+Intel Core i3 10° Gen,,GeForce GT 210,,1,8,0,1024,400,2174.55
+Intel Core i3 10° Gen,,GeForce GTX 1060,,3,8,256,0,500,3670.44
+Intel Core i3 10° Gen,,GeForce GTX 750 TI,,4,8,128,0,400,2761.35
+Intel Core i3 10° Gen,,Radeon HD 6570,,4,16,0,500,500,3476.63
+AMD Athlon 3000G,,Radeon Vega 3,,2,8,0,500,200,1697.50
+AMD Athlon 3000G,,Radeon Vega 3,,2,8,0,500,200,1857.00
+AMD Athlon 3000G,,Radeon Vega 3,,2,8,120,0,400,1879.00
+AMD Athlon 3000G,,Radeon Vega 3,,8,16,240,0,500,2100.00
+Intel Core i5 3º Gen,,GeForce GT 730,,4,8,0,1024,500,3048.27
+Intel Core i5 3º Gen,,GeForce GTX 1050,,2,8,0,1024,500,2667.36
+Intel Core i5 3º Gen,,Intel HD Graphics 2500,,0,8,0,500,200,1497.00
+Intel Core i7 2º Gen,,GeForce GTX 1050 Ti,,4,16,480,0,500,3869.00
+Intel Core i7 2º Gen,,Intel HD Graphics 2000,,0,16,0,3072,400,1780.00
+Intel Core i7 2º Gen,,Intel HD Graphics 2000,,0,16,240,0,600,2726.00
+Intel Core i5 10° Gen,,GeForce GT 610,,2,8,0,1000,500,2690.81
+Intel Core i5 10° Gen,,GeForce GT 730,,4,16,512,0,500,3838.60
+Intel Core i5 10° Gen,,GeForce GTX 1650,,4,8,240,0,500,3636.35
+Intel Core i5 10° Gen,,GeForce GTX 1650,,4,16,480,0,500,4055.65
+Intel Core i5 10° Gen,,GeForce GTX 1650,,4,16,120,1024,500,4238.24
+Intel Core i5 10° Gen,,GeForce GTX 1650,,4,16,0,1024,500,4238.24
+Intel Core i5 10° Gen,,GeForce GTX 1650,,4,8,240,0,500,3977.17
+Intel Core i5 10° Gen,,GeForce GTX 750 TI,,4,8,240,0,500,3108.00
+Intel Core i5 10° Gen,,GeForce GTX 750 TI,,4,8,120,0,400,3397.70
+Intel Core i5 10° Gen,,GeForce RTX 2060,,6,16,470,0,500,4738.62
+Intel Core i5 10° Gen,,GeForce RTX 3050,,8,16,120,1024,750,6310.00
+Intel Core i5 10° Gen,,GeForce RTX 3060,,12,16,240,0,600,6787.00
+Intel Core i5 10° Gen,,Radeon HD 6570,,4,16,480,0,500,3913.00
+Intel Core i7 3° Gen,,GeForce GTX 1650,,4,16,240,0,500,3299.00
+Intel Core i7 3° Gen,,GeForce GTX 1650,,4,16,480,0,500,3949.99
+Intel Core i7 3° Gen,,Intel HD Graphics 2000,,0,16,480,0,500,2850.00
+AMD Ryzen 3 3200G,,GeForce GTX 1650,,4,8,240,0,500,3485.51
+AMD Ryzen 3 3200G,,Radeon Vega 8,,0,8,240,0,400,1897.71
+AMD Ryzen 3 3200G,,Radeon Vega 8,,4,8,256,0,400,2102.16
+AMD Ryzen 3 3200G,,Radeon Vega 8,,4,8,240,0,200,2222.77
+Intel Core i7 1º Gen,,GeForce GT 730,,4,16,120,0,600,2999.50
+Intel Core i7 1º Gen,,GeForce GT 730,,4,16,120,0,600,3332.00
