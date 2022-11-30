@@ -1,11 +1,9 @@
 from sklearn import metrics
-import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression, Ridge, Lasso, QuantileRegressor
 
 
 def get_stats(y_test, y_pred):
     model_stats = []
-    plt.scatter(y_test, y_pred)
     model_stats.append(metrics.r2_score(y_test, y_pred))
     model_stats.append(metrics.mean_absolute_percentage_error(y_test, y_pred))
     model_stats.append(metrics.mean_absolute_error(y_test, y_pred))
@@ -25,10 +23,10 @@ def show_stats(model_accuracy, title):
               "\t| RMSE: %.2f" %i[4])
         count += 1
 
-def get_folder_media(model_stats, n):
+def get_folder_media(model_stats):
     media = 0
     for i in model_stats:
-        media += i[1] / n
+        media += i[1] / len(model_stats)
     return media
 
 def get_media(model_medias):
